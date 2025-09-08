@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **navishandinila@gmail.com**
 
-- 📄 Know about my experiences [I’m currently a 2nd year software engineering student](I’m currently a 2nd year software engineering student)
+- 📄 Know about my experiences [I’m currently a 2nd year software engineering student]
 
 - ⚡ Fun fact **I love learning new tech and building real-world apps from scratch!**
 
