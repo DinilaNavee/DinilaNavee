@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Improving JavaScript and React skills**
 
-- 💬 Ask me about **React, Vue, , Android Studio, Java**
+- Android Studio, Java**
 
 - 📫 How to reach me **navishandinila@gmail.com**
 
