@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dinilanavee&label=Profile%20views&color=0e75b6&style=flat" alt="dinilanavee" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Java, Firebase, React, Git,Python**
+- 🌱 I’m currently learning ** Firebase, React, Git,Python**
 
 - 👯 I’m looking to collaborate on **web apps or mobile projects**
 
